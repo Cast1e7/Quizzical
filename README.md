@@ -18,7 +18,7 @@ My solution for Scrimba's Trivia Quiz App Solo Project.
 
 ## Links
 
-- Live Site URL: https://cast1e7.github.io//
+- Live Site URL: https://cast1e7.github.io/quizzical/
 - Open Trivia DB Api: https://opentdb.com/api_config.php
 
 
